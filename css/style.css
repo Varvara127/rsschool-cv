@@ -27,6 +27,8 @@ body {
     border: 1px solid rgb(120, 120, 120);
     padding: 50px;
     background-color: #d1d1d1;    
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
@@ -69,10 +71,6 @@ body {
   }
 
 
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
-}
 
   
 .section {
