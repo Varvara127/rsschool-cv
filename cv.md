@@ -47,7 +47,7 @@ function multiply(a,b){
 
 * March - June 2022 - Web design courses (IT-academy)
 * February - March 2022 - Figma courses (IT-academy)
-* 
+
 
 ## HOBBIES AND INTERESTS
 Among my interests I can name choreography, dancing, reading, table
